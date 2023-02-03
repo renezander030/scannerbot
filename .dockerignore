@@ -1,0 +1,8 @@
+node_modules
+logs
+*.log
+*.txt
+.env.local
+scannerbot.yml
+*.code-workspace
+Dockerfile

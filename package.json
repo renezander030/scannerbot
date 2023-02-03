@@ -1,0 +1,15 @@
+{
+  "name": "scannerbot",
+  "author": { "name": "René Zander", "url": "https://github.com/renezander030"},
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "moment": "^2.29.4",
+    "node-fetch": "2",
+    "node-schedule": "^2.1.0",
+    "technicalindicators": "^3.1.0",
+    "winston": "^3.8.2"
+  }
+}

@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+
+# next.js
+
+# production
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# logs
+/logs
+*.log
+
+
+# local env files
+.env.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# manifest
+scannerbot.yml
+
+# vs code
+*.code-workspace
